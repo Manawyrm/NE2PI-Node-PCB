@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ALPS_MDLP3W104A")(type "KiCad")(uri "${KIPRJMOD}/ALPS_MDLP3W104A.pretty")(options "")(descr ""))
+  (lib (name "RaspberryPiZero_Dummy")(type "KiCad")(uri "${KIPRJMOD}/RaspberryPiZero_Dummy.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/ToolingHole.pretty")(options "")(descr ""))
+)

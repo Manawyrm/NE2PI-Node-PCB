@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ALPS_MDLP3W104A")(type "KiCad")(uri "${KIPRJMOD}/ALPS_MDLP3W104A.kicad_sym")(options "")(descr ""))
+  (lib (name "RaspberryPiZero")(type "KiCad")(uri "${KIPRJMOD}/RaspberryPiZero.kicad_sym")(options "")(descr ""))
+)
